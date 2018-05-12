@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1800
     wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42433#WardaRoman-uit-het-oude-Egypte
 gutenberg_issued: '2013-03-29'
 gutenberg_type: Text
 identifiers:
