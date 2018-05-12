@@ -1,0 +1,42 @@
+_repo: WardaRoman-uit-het-oude-Egypte_42433
+_version: 0.1.0
+alternative_title: Uarda. Dutch
+contributor:
+  translator:
+    agent_name: Rogge, Hendrik Cornelis
+    birthdate: 1831
+    deathdate: 1905
+    gutenberg_agent_id: '33157'
+    url: http://www.gutenberg.org/2009/agents/33157
+    wikipedia:
+    - http://www.knaw.nl/CFdata/leden/historisch_ledenlist.cfm?persoon=1541
+    - http://www.dbnl.org/tekst/molh003nieu10_01/molh003nieu10_01_1216.htm
+covers:
+- cover_type: archival
+  image_path: 42433-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, George Moritz
+    - Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2013-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42433'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Dutch'
+- !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
+title: 'Warda: Roman uit het oude Egypte'
+url: http://www.gutenberg.org/ebooks/42433
